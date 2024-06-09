@@ -1,0 +1,2270 @@
+[
+  {
+    "Godina": 2008,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 314184
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 151878
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 162306
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 134333
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 65240
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 69093
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 179126
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 86571
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 92555
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 132673
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 64048
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 68625
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 177268
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 86191
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 91077
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 117284
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 56634
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 60650
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 122788
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59400
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 63388
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 297676
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 144008
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 153668
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 52950
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 26317
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 26633
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 87196
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 42080
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 45116
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 80264
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 38823
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 41441
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 161605
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 78385
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 83220
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 167715
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 82370
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 85345
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 309155
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 148477
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 160678
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 111488
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 54582
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 56906
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 183866
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 88581
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 95285
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 454087
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 221055
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 233032
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Istarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 207650
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Istarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 101252
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Istarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 106398
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 121514
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59002
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62512
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 113748
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55515
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 58233
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 783135
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 366108
+  },
+  {
+    "Godina": 2008,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 417027
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 315510
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 152754
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 162756
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 133964
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 65077
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 68887
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 176877
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85622
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 91255
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 131461
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 63532
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 67929
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 176686
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85869
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 90817
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 116781
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 56421
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 60360
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 121820
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 58987
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62833
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 297280
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 143756
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 153524
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 52286
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 26009
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 26277
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 86522
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 41785
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 44737
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 79588
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 38559
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 41029
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 160680
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 77986
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 82694
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 168732
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 82892
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 85840
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 307753
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 147965
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 159788
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 111375
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 54584
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 56791
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 183057
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 88291
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 94766
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 454763
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 221353
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 233410
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Istarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 208441
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Istarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 101668
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Istarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 106773
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 122308
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59423
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62885
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 113791
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55549
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 58242
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 785506
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 367239
+  },
+  {
+    "Godina": 2009,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 418267
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 316965
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 153538
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 163427
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 133285
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 64812
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 68473
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 174359
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 84479
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 89880
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 129944
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 62843
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 67101
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 176448
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85841
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 90607
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 116140
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 56200
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 59940
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 120742
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 58532
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62210
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 296732
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 143434
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 153298
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 51464
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 25644
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 25820
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 85443
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 41285
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 44158
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 78683
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 38103
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 40580
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 159555
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 77499
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 82056
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 169411
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 83245
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 86166
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 306398
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 147472
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 158926
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 110262
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 54054
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 56208
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 181148
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 87423
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 93725
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 454824
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 221371
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 233453
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Istarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 208620
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Istarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 101629
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Istarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 106991
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 122596
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59642
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62954
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 113851
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55594
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 58257
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 788557
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 368555
+  },
+  {
+    "Godina": 2010,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 420002
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 317594
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 153874
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 163720
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 132672
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 64554
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 68118
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 171725
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 83289
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 88436
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 128495
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 62162
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 66333
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 175771
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85549
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 90222
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 115424
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55898
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 59526
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 119448
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 57984
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 61464
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 296004
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 142978
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 153026
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 50697
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 25244
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 25453
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 84621
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 40916
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 43705
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 77775
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 37746
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 40029
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 158249
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 76964
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 81285
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 170212
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 83607
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 86605
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 304541
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 146686
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 157855
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 109072
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 53426
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 55646
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 178959
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 86425
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 92534
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 454683
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 221196
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 233487
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Istarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 208028
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Istarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 101165
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Istarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 106863
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 122456
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59585
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62871
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 113746
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55567
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 58179
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 790450
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 369499
+  },
+  {
+    "Godina": 2011,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 420951
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 318235
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 154335
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 163900
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 131734
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 64116
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 67618
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 169379
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 82203
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 87176
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 126997
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 61462
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 65535
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 175150
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85256
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 89894
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 114846
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55605
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 59241
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 118083
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 57435
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 60648
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 295300
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 142678
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 152622
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 49942
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 24861
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 25081
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 83820
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 40612
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 43208
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 76651
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 37294
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 39357
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 157086
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 76408
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 80678
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 170955
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 83911
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 87044
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 302751
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 145878
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 156873
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 107595
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 52734
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 54861
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 177583
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85823
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 91760
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 454777
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 221307
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 233470
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Istarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 207719
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Istarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 100960
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Istarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 106759
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 122337
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59549
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62788
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 113561
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55541
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 58020
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 793057
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 370733
+  },
+  {
+    "Godina": 2012,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 422324
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 318837
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 154702
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Zagrebačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 164135
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 130895
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 63727
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Krapinsko-zagorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 67168
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 167036
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 81217
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Sisačko-moslavačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 85819
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 125688
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 60860
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Karlovačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 64828
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 174434
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 84904
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Varaždinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 89530
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 114346
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55451
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Koprivničko-križevačka županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 58895
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 116959
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 56936
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Bjelovarsko-bilogorska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 60023
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 294705
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 142276
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Primorsko-goranska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 152429
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 49364
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 24559
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Ličko-senjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 24805
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 83029
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 40261
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Virovitičko-podravska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 42768
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 75801
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 36977
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Požeško-slavonska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 38824
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 155956
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 75900
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Brodsko-posavska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 80056
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 171594
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 84277
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Zadarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 87317
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 300950
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 145066
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Osječko-baranjska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 155884
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 106540
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 52267
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Šibensko-kninska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 54273
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 175932
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 85105
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Vukovarsko-srijemska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 90827
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 454711
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 221286
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Splitsko-dalmatinska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 233425
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Istarska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 207793
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Istarska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 101031
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Istarska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 106762
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 122197
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 59517
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Dubrovačko-neretvanska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 62680
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 113417
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 55524
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Međimurska županija",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 57893
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Ukupno",
+    "Procjena_stanovnistva": 795505
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Muškarci",
+    "Procjena_stanovnistva": 371945
+  },
+  {
+    "Godina": 2013,
+    "Zupanija": "Grad Zagreb",
+    "Spol": "Žene",
+    "Procjena_stanovnistva": 423560
+  }
+]

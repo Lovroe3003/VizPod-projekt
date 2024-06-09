@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/topojson@3/dist/topojson.min.js"></script>
+    <title>Vizualizacija podataka projekt </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="all-content">
+        <h1>Statistički podaci o stanovništvu RH za razdoblje 2008-2013</h1>
+        <div class="year-dependent-elements">
+            <div class="barchart-container">
+                <div class="sticky-menu">
+                    <div class="year-div" id="sticky">
+                        <label for="yearSlider">Godina: <span id="yearValue">2008</span></label>
+                        <input type="range" id="yearSlider" class="slider" min="2008" max="2013" step="1" value="2008">
+                    </div>
+                    <div class="dropdown-div" id="sticky">
+                        <label for="spolDropdown">Spol:</label>
+                        <select id="spolDropdown" class="dropdown">
+                            <option value="Ukupno">Ukupno</option>
+                            <option value="Muškarci">Muškarci</option>
+                            <option value="Žene">Žene</option>
+                        </select>
+                    </div>
+                </div>
+               <div id="barchart"></div>
+            </div>
+            <div id="croMap"></div>
+        </div>
+        <div class="other-charts">
+            <div class="piechart-container">
+                <div class="zupanija-div">
+                    <label for="zupanijaDropdown">Županija: </label>
+                    <select id="zupanijaDropdown" class="dropdown"></select>
+                </div>
+                <div id="piechart"></div>
+            </div>
+            <div id="linechart"></div>
+        </div>
+        
+    </div>
+    <script src="script.js"></script> 
+</body>
